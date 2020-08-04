@@ -1,3 +1,13 @@
+# duelyst
+
+This repo contains my attempt to reverse-engineer the authenticated Duelyst APIs
+for interacting with cards and decks. Includes tools for de-minifying the client
+JavaScript code, finding URLs in the client, and another tool for interacting
+with those APIs.
+
+Unfortunately, Duelyst was permanently shut down in February 2020, and these
+APIs are now offline.
+
 # Process
 
 Documents the process of mapping and using Duelyst's internal APIs, with the
